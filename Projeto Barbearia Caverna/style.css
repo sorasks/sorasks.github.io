@@ -1,0 +1,29 @@
+body {
+
+    text-align: center;
+    background-color: black;
+    font-size: 25px;
+    color: rgb(255, 252, 252);
+    background-image: url(https://cdn.discordapp.com/attachments/887805650153930814/1087912591986274376/Sora_barbershop_in_a_cave_web_browser_460a6630-27b0-406c-93c0-3af4615823b7.png);
+
+}
+
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    background-image:url("https://www.cavebarbershop.com/wp-content/themes/thecave/images/thecave.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    text-align: center;
+    padding-bottom: 400px; 
+    background-color:transparent 
+   
+  
+}
+
+
+p {
+    color: rgb(255, 255, 255);
+}
